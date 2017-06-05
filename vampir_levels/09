@@ -1,0 +1,271 @@
+<data>
+  <mapSize width="15" height="5"/>
+  <mapCeils>
+    <ceil type="normal" x="0" y="0">
+      <wall id="north" type="normal"/>
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="1" y="0">
+      <wall id="north" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="2" y="0">
+      <wall id="north" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="3" y="0">
+      <wall id="north" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="4" y="0">
+      <wall id="north" type="normal"/>
+      <wall id="east" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="5" y="0">
+      <wall id="north" type="normal"/>
+      <wall id="south" type="normal"/>
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="6" y="0">
+      <wall id="north" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="7" y="0">
+      <wall id="north" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="8" y="0">
+      <wall id="north" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="9" y="0">
+      <wall id="north" type="normal"/>
+      <wall id="east" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="10" y="0">
+      <wall id="north" type="normal"/>
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="11" y="0">
+      <wall id="north" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="12" y="0">
+      <wall id="north" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="13" y="0">
+      <wall id="north" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="14" y="0">
+      <wall id="north" type="normal"/>
+      <wall id="east" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="0" y="1">
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="1" y="1"/>
+    <ceil type="normal" x="2" y="1"/>
+    <ceil type="normal" x="3" y="1"/>
+    <ceil type="normal" x="4" y="1">
+      <wall id="east" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="6" y="1">
+      <wall id="north" type="normal"/>
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="7" y="1">
+      <wall id="north" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="8" y="1">
+      <wall id="north" type="normal"/>
+      <wall id="east" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="10" y="1">
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="11" y="1"/>
+    <ceil type="normal" x="12" y="1"/>
+    <ceil type="normal" x="13" y="1"/>
+    <ceil type="normal" x="14" y="1">
+      <wall id="east" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="0" y="2">
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="1" y="2"/>
+    <ceil type="normal" x="2" y="2"/>
+    <ceil type="normal" x="3" y="2"/>
+    <ceil type="normal" x="4" y="2"/>
+    <ceil type="normal" x="5" y="2">
+      <wall id="north" type="normal"/>
+      <wall id="east" type="door" color="red"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="6" y="2">
+      <wall id="west" type="door" color="red"/>
+    </ceil>
+    <ceil type="normal" x="7" y="2"/>
+    <ceil type="normal" x="8" y="2">
+      <wall id="east" type="door" color="green"/>
+    </ceil>
+    <ceil type="normal" x="9" y="2">
+      <wall id="north" type="normal"/>
+      <wall id="south" type="normal"/>
+      <wall id="west" type="door" color="green"/>
+    </ceil>
+    <ceil type="normal" x="10" y="2"/>
+    <ceil type="normal" x="11" y="2"/>
+    <ceil type="normal" x="12" y="2"/>
+    <ceil type="normal" x="13" y="2"/>
+    <ceil type="normal" x="14" y="2">
+      <wall id="east" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="0" y="3">
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="1" y="3"/>
+    <ceil type="normal" x="2" y="3"/>
+    <ceil type="normal" x="3" y="3"/>
+    <ceil type="normal" x="4" y="3">
+      <wall id="east" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="6" y="3">
+      <wall id="south" type="normal"/>
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="7" y="3">
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="8" y="3">
+      <wall id="east" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="10" y="3">
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="11" y="3"/>
+    <ceil type="normal" x="12" y="3"/>
+    <ceil type="normal" x="13" y="3"/>
+    <ceil type="normal" x="14" y="3">
+      <wall id="east" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="0" y="4">
+      <wall id="south" type="normal"/>
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="1" y="4">
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="2" y="4">
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="3" y="4">
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="4" y="4">
+      <wall id="east" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="5" y="4">
+      <wall id="north" type="normal"/>
+      <wall id="south" type="normal"/>
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="6" y="4">
+      <wall id="north" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="7" y="4">
+      <wall id="north" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="8" y="4">
+      <wall id="north" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="9" y="4">
+      <wall id="north" type="normal"/>
+      <wall id="east" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="10" y="4">
+      <wall id="south" type="normal"/>
+      <wall id="west" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="11" y="4">
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="12" y="4">
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="13" y="4">
+      <wall id="south" type="normal"/>
+    </ceil>
+    <ceil type="normal" x="14" y="4">
+      <wall id="east" type="normal"/>
+      <wall id="south" type="normal"/>
+    </ceil>
+  </mapCeils>
+  <units>
+    <unit type="civil" x="0" y="0"/>
+    <unit type="civil" x="1" y="0"/>
+    <unit type="civil" x="2" y="0"/>
+    <unit type="civil" x="3" y="0"/>
+    <unit type="civil" x="4" y="0"/>
+    <unit type="civil" x="10" y="0"/>
+    <unit type="civil" x="11" y="0"/>
+    <unit type="civil" x="12" y="0"/>
+    <unit type="civil" x="13" y="0"/>
+    <unit type="civil" x="14" y="0"/>
+    <unit type="civil" x="0" y="1"/>
+    <unit type="civil" x="1" y="1"/>
+    <unit type="civil" x="2" y="1"/>
+    <unit type="civil" x="3" y="1"/>
+    <unit type="civil" x="4" y="1"/>
+    <unit type="policeman" x="6" y="1"/>
+    <unit type="policeman" x="7" y="1"/>
+    <unit type="policeman" x="8" y="1"/>
+    <unit type="civil" x="10" y="1"/>
+    <unit type="civil" x="11" y="1"/>
+    <unit type="civil" x="12" y="1"/>
+    <unit type="civil" x="13" y="1"/>
+    <unit type="civil" x="14" y="1"/>
+    <unit type="civil" x="0" y="2"/>
+    <unit type="civil" x="1" y="2"/>
+    <unit type="vampir" x="2" y="2"/>
+    <unit type="civil" x="3" y="2"/>
+    <unit type="civil" x="4" y="2"/>
+    <unit type="policeman" x="6" y="2"/>
+    <unit type="hunter" x="7" y="2"/>
+    <unit type="policeman" x="8" y="2"/>
+    <unit type="civil" x="10" y="2"/>
+    <unit type="civil" x="11" y="2"/>
+    <unit type="civil" x="12" y="2"/>
+    <unit type="civil" x="13" y="2"/>
+    <unit type="civil" x="14" y="2"/>
+    <unit type="civil" x="0" y="3"/>
+    <unit type="civil" x="1" y="3"/>
+    <unit type="civil" x="2" y="3"/>
+    <unit type="civil" x="3" y="3"/>
+    <unit type="civil" x="4" y="3"/>
+    <unit type="policeman" x="6" y="3"/>
+    <unit type="policeman" x="7" y="3"/>
+    <unit type="policeman" x="8" y="3"/>
+    <unit type="civil" x="10" y="3"/>
+    <unit type="civil" x="11" y="3"/>
+    <unit type="civil" x="12" y="3"/>
+    <unit type="civil" x="13" y="3"/>
+    <unit type="civil" x="14" y="3"/>
+    <unit type="civil" x="0" y="4"/>
+    <unit type="civil" x="1" y="4"/>
+    <unit type="civil" x="2" y="4"/>
+    <unit type="civil" x="3" y="4"/>
+    <unit type="civil" x="4" y="4"/>
+    <unit type="civil" x="10" y="4"/>
+    <unit type="civil" x="11" y="4"/>
+    <unit type="civil" x="12" y="4"/>
+    <unit type="civil" x="13" y="4"/>
+    <unit type="civil" x="14" y="4"/>
+  </units>
+  <items>
+    <key color="red" x="5" y="2"/>
+    <key color="green" x="9" y="2"/>
+  </items>
+</data>

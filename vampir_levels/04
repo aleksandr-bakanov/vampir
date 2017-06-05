@@ -1,0 +1,15 @@
+<data>
+  <mapSize width="3" height="3"/>
+  <mapCeils>
+    <ceil type="normal" x="1" y="1">
+      <wall id="north" type="normal"/>
+      <wall id="east" type="normal"/>
+      <wall id="south" type="normal"/>
+      <wall id="west" type="normal"/>
+    </ceil>
+  </mapCeils>
+  <units>
+    <unit type="vampir" x="1" y="1"/>
+  </units>
+  <items/>
+</data>
